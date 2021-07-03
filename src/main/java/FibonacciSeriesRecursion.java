@@ -5,8 +5,8 @@ public class FibonacciSeriesRecursion {
         for (int i = 0; i < input; i++) {
 
             System.out.println(fibonacci(i));
+            System.out.println(fibonacci(i));
         }
-
     }
 
     public static int fibonacci(int n) {
